@@ -9,3 +9,7 @@ def line(array)
   end
   puts result
 end
+
+def take_a_number(array)
+  
+end
