@@ -19,4 +19,5 @@ def now_serving(array)
   if array.length == 0
     return puts "There is nobody waiting to be served!"
   end
+  
 end
