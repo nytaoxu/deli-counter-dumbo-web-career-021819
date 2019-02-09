@@ -20,4 +20,5 @@ def now_serving(array)
     return puts "There is nobody waiting to be served!"
   end
   array.shift
+  array
 end
